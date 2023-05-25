@@ -6,4 +6,4 @@ pip install numpy
 
 pip install PIL
 
-streamlit run app2.py
+streamlit run app.py
